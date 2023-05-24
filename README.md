@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-<!--
-**karahanyavuzkara/karahanyavuzkara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Karahan Yavuz Kara, 20 years old developer from Turkey and I study CTIS at Istanbul Okan University. I really enjoy coding and learning Java and backend development. I also create content at @yazilimtoplulugu on Instagram. 
 
-Here are some ideas to get you started:
+💻 SKILLS AND TECH STACK
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
