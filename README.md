@@ -11,5 +11,5 @@ I am Karahan Yavuz Kara, 20 years old developer from Turkey and I study CTIS at 
  - karahanyavuz61@gmail.com
  https://www.instagram.com/karahanac/
   
-
+(https://github.com/karahanyavuzkara/karahanyavuzkara/blob/main/dino.gif)
 -----> <-----
