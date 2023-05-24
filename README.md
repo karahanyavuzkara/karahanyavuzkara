@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karahan Yavuz Kara</h1>
-<h3 align="center">20 years old Backend Developer from Turkey.</h3>
+<h3 align="center">20 years old Backend Developer from Turkey. I love to learn new technologies and code in Java. :))</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
